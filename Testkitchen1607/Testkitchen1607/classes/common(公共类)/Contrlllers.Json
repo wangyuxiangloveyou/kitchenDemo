@@ -1,0 +1,29 @@
+[{
+ "ctrLname":"IngredientViewController",
+ "image":"home",
+ "title":"食材"},
+ {
+ "ctrLname":"CommunityViewController",
+ "image":"community",
+ "title":"社区"},
+ {
+ "ctrLname":"MallViewController",
+ "image":"shop",
+ "title":"商城"},
+ {
+ "ctrLname":"FoodClassViewController",
+ "image":"shike",
+ "title":"食课"},
+ {
+ "ctrLname":"ProfileViewController",
+ "image":"mine",
+ "title":"我的"}
+ ]
+
+
+
+
+
+
+
+
